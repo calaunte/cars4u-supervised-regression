@@ -11,3 +11,9 @@ The primary objective of the Cars4U project is to devise a reliable pricing mode
 1. **Data Exploration**: Perform an in-depth analysis of the dataset, identifying key metrics, trends, and relationships that could influence used car prices.
 2. **Predictive Modeling**: Build a robust regression model that can accurately predict the prices of used cars based on historical data.
 3. **Strategy Formulation**: Leverage the insights gained from the model to propose differential pricing strategies that could enhance business profitability.
+
+### Prerequisites
+
+- Familiarity with regression models and predictive analytics.
+- Required software: Python, Jupyter Notebook, or any preferred IDE supporting Python.
+- Required libraries: scikit-learn, pandas, NumPy, matplotlib, seaborn.
